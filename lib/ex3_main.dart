@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       home: Container(
         color: Colors.grey,
-        padding: EdgeInsets.all(100),
+        padding: EdgeInsets.all(50),
         child: Column(
           children: [
             Container(
